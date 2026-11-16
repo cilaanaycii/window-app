@@ -1,0 +1,10 @@
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.Form1.resources
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.Properties.Resources.resources
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.exe.config
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.exe
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.pdb
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.exe
+C:\Users\THINKPAD\Documents\Cilla x rpl\2026-15-November\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.pdb
